@@ -8,4 +8,5 @@ def test(n):
         print('Weird')
     elif n>=20:
         print('Not Weird')
+test(3)
 test(24)
